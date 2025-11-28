@@ -1,4 +1,5 @@
 # 🍦 Ice Cream Sales Analysis Dashboard
+<img width="546" height="730" alt="image" src="https://github.com/user-attachments/assets/fb85a80b-cff5-4539-a858-e508635f4dd5" />
 
 ## 📊 Project Overview
 The *Ice Cream Sales Analysis Dashboard* is an interactive Power BI visualization that provides a detailed overview of ice cream sales performance.  
@@ -25,13 +26,6 @@ It helps analyze key business metrics such as revenue, profit, orders, and units
 
 ---
 
-## 🖼️ Dashboard Preview
-
-Here’s a preview of the dashboard 👇
-
-https://github.com/ashishkmr348/Power-BI/blob/main/Ice_Cream_Sales_Analysis/Screenshot%20(19).png
-
----
 
 ## 🛠️ Tools Used
 - *Power BI Desktop*
@@ -60,5 +54,3 @@ These allow users to drill down and analyze sales data for specific time frames 
 
 ---
 
-## 📂 Project Structure
-https://github.com/ashishkmr348/Power-BI/blob/main/Ice_Cream_Sales_Analysis/Screenshot%20(19).png
