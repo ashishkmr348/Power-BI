@@ -29,7 +29,7 @@ It helps analyze key business metrics such as revenue, profit, orders, and units
 
 Here’s a preview of the dashboard 👇
 
-
+https://github.com/ashishkmr348/Power-BI/blob/main/Ice_Cream_Sales_Analysis/Screenshot%20(19).png
 
 ---
 
