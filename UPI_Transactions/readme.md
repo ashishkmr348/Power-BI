@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 The **UPI Transaction Analysis Dashboard** is an interactive Power BI report designed to analyze digital payment trends across India during 2024.  
-It provides insights into transaction performance, value contribution, and regional adoption to support data-driven strategic decision-making. :contentReference[oaicite:0]{index=0}
+It provides insights into transaction performance, value contribution, and regional adoption to support data-driven strategic decision-making. 
 
 ---
 
@@ -11,7 +11,7 @@ It provides insights into transaction performance, value contribution, and regio
 - Analyze **success vs. failure rate** trends
 - Compare **bank-wise & app-wise** transactions
 - Highlight regional transaction distribution & adoption patterns
-- Detect anomalies and performance bottlenecks across time periods :contentReference[oaicite:1]{index=1}
+- Detect anomalies and performance bottlenecks across time periods 
 
 ---
 
@@ -29,7 +29,7 @@ Primary Source: **upi_transactions_2024.csv**
 | Region / State | Geographic segmentation |
 
 Secondary Sources:  
-NPCI / RBI benchmark data *(planned)* :contentReference[oaicite:2]{index=2}
+NPCI / RBI benchmark data *(planned)* 
 
 ---
 
@@ -45,7 +45,7 @@ NPCI / RBI benchmark data *(planned)* :contentReference[oaicite:2]{index=2}
 ### 📌 Visual Analytics
 - Drill-downs, filters & dynamic slicing
 - Trend charts, KPIs, maps & heat-views
-- Insight highlights using tooltips and conditional formatting :contentReference[oaicite:3]{index=3}
+- Insight highlights using tooltips and conditional formatting 
 
 ---
 
@@ -57,7 +57,7 @@ NPCI / RBI benchmark data *(planned)* :contentReference[oaicite:2]{index=2}
 | DAX | KPI calculations & time intelligence |
 | CSV / Excel | Data source storage |
 
-Dashboard methodology uses KPI measurement, data modeling, and user-first design principles. :contentReference[oaicite:4]{index=4}
+Dashboard methodology uses KPI measurement, data modeling, and user-first design principles. 
 
 ---
 
@@ -72,14 +72,14 @@ Dashboard methodology uses KPI measurement, data modeling, and user-first design
 - Empower stakeholders including **banks, fintechs & regulators** with analytical insights
 - Improve monitoring of digital payments ecosystem growth
 - Identify causes of payment failures & inefficiencies
-- Establish scalable foundation for predictive & fraud analytics :contentReference[oaicite:5]{index=5}
+- Establish scalable foundation for predictive & fraud analytics 
 
 ---
 
 ## ⚠ Challenges & Considerations
 - Potential data quality issues
 - Large dataset performance optimization
-- Multi-source integration complexity :contentReference[oaicite:6]{index=6}
+- Multi-source integration complexity 
 
 ---
 
