@@ -1,4 +1,4 @@
-# 📊 Power BI Project – Budget & Sales Analysis Dashboard
+# 📊 Budget & Sales Analysis Dashboard
 
 ## 📌 Overview
 The **Budget & Sales Analysis Dashboard** provides key insights into sales performance compared to budget targets across different regions, product categories, and time periods.  
