@@ -77,7 +77,6 @@ The model follows a **Star Schema** including:
 ## 👤 Author
 **Ashish Kumar**  
 📧 ashishkmr348@gmail.com
-🔗 [Portfolio / LinkedIn / GitHub]
 
 ---
 
