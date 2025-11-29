@@ -1,4 +1,4 @@
-# 💳 UPI Transaction Analysis Dashboard — Power BI
+# 💳 UPI Transaction Analysis Dashboard 
 
 ## 📌 Project Overview
 The **UPI Transaction Analysis Dashboard** is an interactive Power BI report designed to analyze digital payment trends across India during 2024.  
