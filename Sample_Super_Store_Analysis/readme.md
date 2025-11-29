@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard – Sample Super Store Analysis
+# 📊 Sample Super Store Analysis Dashboard
 
 ## 📌 Overview
 The **Sample Super Store Dashboard** delivers detailed insights into retail performance across different regions, product categories, and customer segments.  
